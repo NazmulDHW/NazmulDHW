@@ -1,103 +1,81 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=30&duration=3000&pause=1000&color=00BFFF&center=true&vCenter=true&width=700&lines=Hi+I'm+Nazmul+DHW;Full+Stack+Developer;Django+%7C+Vue+%7C+React;Building+Modern+Web+Applications" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=32&pause=1000&color=00BFFF&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Najmul+Zaman+Ifty;Web+Developer;Full+Stack+Web+Application+Builder;Creating+Digital+Solutions" />
 
 </div>
-
-
-<h1 align="center">
-🚀 Nazmul DHW
-</h1>
-
-<h3 align="center">
-Full Stack Developer | Django | Vue.js | React | AI Enthusiast
-</h3>
 
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="400">
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="420">
 
 </div>
 
 
----
-
-## 👨‍💻 About Me
+# 👋 About Me
 
 
-- 💻 Passionate Full Stack Developer
-- 🚀 Building modern web applications with Django, Vue.js and React
-- 🌱 Currently improving backend architecture and scalable systems
-- 🤖 Exploring Artificial Intelligence and Machine Learning
-- 🔥 Love creating practical solutions through technology
-- 🎯 Always learning and improving my coding skills
+Hi, I'm **Najmul Zaman Ifty**.
+
+I am a passionate **Web Developer** who loves building modern, responsive and scalable web applications.
+
+I enjoy solving real-world problems through technology and creating smooth digital experiences.
 
 
 ---
 
-# 🛠️ Tech Stack
+# 🚀 What I Do
 
 
-## 💻 Programming Languages
+💻 Build Full Stack Web Applications
 
-<p>
+🌐 Develop Modern Business Websites
 
-<img src="https://skillicons.dev/icons?i=python,js,java,cpp,c" />
+🛒 Create E-commerce Solutions
 
-</p>
+📊 Develop Dashboard & Management Systems
 
-
-## 🌐 Frontend Development
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,bootstrap,vue,react" />
-
-</p>
+⚡ Build API Based Applications
 
 
-## ⚙️ Backend Development
+---
 
-<p>
-
-<img src="https://skillicons.dev/icons?i=django,flask,nodejs" />
-
-</p>
+# 🛠️ My Technology Stack
 
 
-## 🗄️ Database
+## Frontend Development
 
-<p>
+<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,react" />
+
+
+## Backend Development
+
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs" />
+
+
+## Database
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
 
-</p>
 
-
-## 🔧 Tools & Platforms
-
-<p>
+## Tools & Others
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,linux,docker" />
-
-</p>
-
 
 
 ---
 
-# 🚀 Featured Projects
+# 🌟 Featured Projects
 
 
 ## 🏦 Banking Management System
 
-A full-stack banking application with user management, transaction handling and database integration.
+A complete banking solution designed to manage users, transactions and business operations with a modern interface.
 
 
-**Technology:**
+**Tech Stack:**
 
-Python | Django | Database
+Django | Vue.js | Database | REST API
 
 
 ---
@@ -105,38 +83,38 @@ Python | Django | Database
 
 ## 🛒 E-Commerce Platform
 
-A modern e-commerce application with product management, authentication and shopping features.
+A modern online shopping platform with product management, customer handling and responsive design.
 
 
-**Technology:**
+**Tech Stack:**
 
-React | Django | REST API
-
-
----
-
-
-## 📊 Business Dashboard System
-
-Interactive dashboard application for managing and visualizing business data.
-
-
-**Technology:**
-
-Vue.js | Django API
+React | Django | API Integration
 
 
 ---
 
 
-## 🤖 AI & Machine Learning Projects
+## 📊 Business Management Dashboard
 
-Exploring AI-based applications including prediction models and intelligent systems.
+A powerful dashboard system for managing and visualizing business data efficiently.
 
 
-**Technology:**
+**Tech Stack:**
 
-Python | TensorFlow | Machine Learning
+Vue.js | Backend API | Database
+
+
+---
+
+
+## 🤖 AI Based Applications
+
+Exploring intelligent applications by combining web technologies with modern AI solutions.
+
+
+**Tech Stack:**
+
+Python | Machine Learning | Web Technologies
 
 
 
@@ -147,33 +125,17 @@ Python | TensorFlow | Machine Learning
 
 <div align="center">
 
-
 <img src="https://github-readme-stats.vercel.app/api?username=NazmulDHW&show_icons=true&theme=tokyonight&hide_border=true" />
 
 
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmulDHW&theme=tokyonight&hide_border=true" />
 
-
 </div>
-
 
 
 ---
 
-# 📈 Contribution Graph
-
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=NazmulDHW&theme=tokyo-night" />
-
-</div>
-
-
-
----
-
-# 🐍 Contribution Snake Animation
+# 🐍 Contribution Animation
 
 
 <div align="center">
@@ -183,35 +145,50 @@ Python | TensorFlow | Machine Learning
 </div>
 
 
-
 ---
 
 # 🌐 Connect With Me
 
 
-<p align="center">
+<div align="center">
 
-<a href="#">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin">
+
+<a href="https://facebook.com/YOUR_FACEBOOK_USERNAME">
+
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white">
+
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Portfolio-black?style=for-the-badge&logo=googlechrome">
+
+<a href="mailto:YOUR_EMAIL@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white">
+
 </a>
 
-<a href="#">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail">
+
+<a href="https://wa.me/YOUR_PHONE_NUMBER">
+
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white">
+
 </a>
 
-</p>
 
+<a href="https://linkedin.com/in/YOUR_LINKEDIN">
+
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white">
+
+</a>
+
+
+</div>
 
 
 ---
 
 <div align="center">
 
-### ✨ "Code. Create. Innovate."
+### 🚀 Build. Learn. Create.
 
 ⭐ Thanks for visiting my profile!
 
