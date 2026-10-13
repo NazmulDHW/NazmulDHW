@@ -1,15 +1,14 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Najmul+Zaman+Ifty;Web+Developer;Building+Modern+Digital+Solutions;Turning+Ideas+Into+Reality" />
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=32&pause=1000&color=38BDF8&center=true&vCenter=true&width=750&lines=Hi%2C+I'm+Najmul+Zaman+Ifty;Web+Developer;Building+Modern+Web+Applications;Creating+Digital+Solutions" />
 
 </div>
 
 
-<div align="center">
+<br>
 
-<img src="YOUR_BANNER_IMAGE_LINK" width="900">
 
-</div>
+<img align="right" width="400" src="https://raw.githubusercontent.com/abhisheknaiidu/awesome-github-profile-readme/master/assets/coding.gif">
 
 
 # 👋 About Me
@@ -17,14 +16,67 @@
 
 Hi, I'm **Najmul Zaman Ifty**.
 
-I am a passionate **Web Developer** who focuses on building modern, responsive and scalable web applications.
+I am a passionate **Web Developer** who loves creating modern, responsive and scalable web applications.
 
-I love creating digital solutions that solve real-world problems and deliver better user experiences.
+I enjoy transforming ideas into digital products and solving real-world problems through technology.
+
+
+<br>
+
+
+## 🚀 What I Do
+
+
+- 💻 Build modern Full Stack Web Applications
+- 🌐 Develop responsive websites
+- 🛒 Create e-commerce solutions
+- 📊 Build dashboard and management systems
+- ⚡ Develop API-based applications
+- 🌱 Continuously learning new technologies
+
+
+<br clear="right"/>
 
 
 ---
 
-# 🚀 What I Do
+
+# 🛠️ Tech Stack
+
+
+## Frontend
+
+<p>
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vue,react" />
+</p>
+
+
+## Backend
+
+<p>
+<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs" />
+</p>
+
+
+## Database
+
+<p>
+<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
+</p>
+
+
+## Tools
+
+<p>
+<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
+</p>
+
+
+
+---
+
+
+# 🚀 Featured Projects
 
 
 <table>
@@ -33,44 +85,78 @@ I love creating digital solutions that solve real-world problems and deliver bet
 
 <td width="50%">
 
-### 💻 Web Applications
 
-Building modern full-stack applications with clean architecture and user-friendly interfaces.
+## 🏦 Banking Management System
+
+A complete banking solution with user management, transaction handling and database integration.
+
+
+<b>Tech:</b>
+
+Django • Vue.js • REST API • MySQL
+
 
 </td>
 
 
 <td width="50%">
 
-### ⚡ Digital Solutions
 
-Creating practical solutions for business automation and online platforms.
+## 🛒 E-Commerce Platform
+
+A modern online shopping platform with product management and smooth user experience.
+
+
+<b>Tech:</b>
+
+React • Django • API
+
 
 </td>
 
+
 </tr>
+
 
 
 <tr>
 
+
 <td>
 
-### 🛒 E-Commerce
 
-Developing shopping platforms with smooth user experience.
+## 📊 Business Dashboard
+
+A dashboard system for managing and visualizing business data.
+
+
+<b>Tech:</b>
+
+Vue.js • Backend API
+
 
 </td>
 
 
+
 <td>
 
-### 📊 Management Systems
 
-Creating dashboards and business management tools.
+## 🤖 AI Applications
+
+Exploring intelligent applications using AI and modern technologies.
+
+
+<b>Tech:</b>
+
+Python • Machine Learning
+
 
 </td>
+
 
 </tr>
+
 
 </table>
 
@@ -78,90 +164,8 @@ Creating dashboards and business management tools.
 
 ---
 
-# 🛠️ Technology Stack
 
-
-### Frontend
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,react" />
-
-
-### Backend
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs" />
-
-
-### Database
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" />
-
-
-### Tools
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" />
-
-
----
-
-# 🚀 Featured Projects
-
-
-## 🏦 Banking Management System
-
-A complete banking management solution with user handling, transaction management and database integration.
-
-
-**Built With**
-
-`Django` `Vue.js` `REST API` `MySQL`
-
-
-
----
-
-
-## 🛒 E-Commerce Platform
-
-A modern online shopping platform with product management and customer-focused experience.
-
-
-**Built With**
-
-`React` `Django` `API`
-
-
-
----
-
-
-## 📊 Business Dashboard
-
-A responsive dashboard system for managing and visualizing business information.
-
-
-**Built With**
-
-`Vue.js` `Backend API` `Database`
-
-
-
----
-
-
-## 🤖 AI Integrated Projects
-
-Exploring intelligent applications by combining web technologies with AI.
-
-
-**Built With**
-
-`Python` `Machine Learning` `AI`
-
-
-
----
-
-# 📈 GitHub Analytics
+# 📊 GitHub Statistics
 
 
 <div align="center">
@@ -176,9 +180,11 @@ Exploring intelligent applications by combining web technologies with AI.
 </div>
 
 
+
 ---
 
-# 🌐 Let's Connect
+
+# 🌐 Connect With Me
 
 
 <div align="center">
@@ -205,7 +211,7 @@ Exploring intelligent applications by combining web technologies with AI.
 </a>
 
 
-<a href="YOUR_LINKEDIN">
+<a href="YOUR_LINKEDIN_LINK">
 
 <img src="https://img.shields.io/badge/LinkedIn-Profile-blue?style=for-the-badge&logo=linkedin">
 
@@ -215,12 +221,14 @@ Exploring intelligent applications by combining web technologies with AI.
 </div>
 
 
+
 ---
+
 
 <div align="center">
 
-## 🚀 Build. Learn. Create.
+### 🚀 Build. Learn. Create.
 
-Thanks for visiting my profile ❤️
+⭐ Thanks for visiting my profile!
 
 </div>
