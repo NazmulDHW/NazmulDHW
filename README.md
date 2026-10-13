@@ -75,7 +75,6 @@
 | 🐳 Docker | Container Platform |
 
 
-
 ---
 
 # 🚀 Featured Projects
@@ -106,7 +105,6 @@ Interactive dashboard for managing and presenting business data.
 **Tech:** Vue.js • Backend API
 
 
-
 ---
 
 # 📊 GitHub Stats
@@ -132,23 +130,31 @@ Interactive dashboard for managing and presenting business data.
 <div align="center">
 
 
-<a href="YOUR_FACEBOOK_LINK">
-<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>
+<a href="https://www.facebook.com/nzifty.ifty/">
+
+<img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+
 </a>
 
 
-<a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
+<a href="mailto:nazmulzaman04@gmail.com">
+
+<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 
-<a href="YOUR_WHATSAPP_LINK">
-<img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/>
+<a href="https://wa.me/8801518953916">
+
+<img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
 </a>
 
 
-<a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
+<a href="https://www.linkedin.com/in/nazmul-ifty-3a1757306/">
+
+<img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 
