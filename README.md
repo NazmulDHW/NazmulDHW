@@ -7,7 +7,9 @@
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+%7C+Backend+Enthusiast;Building+Creative+Web+Solutions"/>
+<div align="center">
+
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=650&lines=Software+Developer;Web+Developer;Building+Creative+Digital+Solutions;Exploring+Modern+Technologies"/>
 
 </div>
 
@@ -21,11 +23,13 @@
 ## 👋 Hi, I'm Najmul Zaman Ifty
 
 
-💻 Web Developer passionate about creating modern websites and applications.
+💻 Software Developer | Web Developer
 
-🌱 I enjoy learning new technologies and building real-world projects.
+🚀 Passionate about building software applications, websites and practical digital solutions.
 
-🚀 Interested in Full Stack Development and innovative solutions.
+🌱 Experienced with programming languages, web technologies and application development.
+
+💡 I enjoy solving problems through clean code and continuous learning.
 
 
 <br clear="right"/>
@@ -62,7 +66,6 @@
 |---|---|
 | 🐬 MySQL | Relational Database |
 | 🐘 PostgreSQL | Database System |
-| 🍃 MongoDB | NoSQL Database |
 
 
 ### Tools & Others
@@ -72,7 +75,6 @@
 | 🔧 Git | Version Control |
 | 🐙 GitHub | Code Hosting |
 | 💻 VS Code | Code Editor |
-| 🐳 Docker | Container Platform |
 
 
 ---
