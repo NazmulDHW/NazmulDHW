@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=250&section=header&text=Najmul%20Zaman%20Ifty&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=230&section=header&text=Najmul%20Zaman%20Ifty&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=28&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=700&lines=Web+Developer;Full+Stack+Application+Builder;Creating+Modern+Digital+Solutions;Code+%7C+Build+%7C+Improve"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=WEB+DEVELOPER;FULL+STACK+APPLICATION+BUILDER;CREATING+MODERN+DIGITAL+SOLUTIONS;CODE+%7C+CREATE+%7C+INNOVATE"/>
 
 </div>
 
@@ -17,7 +17,9 @@
 
 <div align="center">
 
-<img src="https://media.giphy.com/media/f3iwJFOVOwuy7K6FFw/giphy.gif" width="500">
+### 🚀 Welcome To My Digital Space
+
+Building modern web applications with creativity and clean code.
 
 </div>
 
@@ -25,17 +27,27 @@
 <br>
 
 
-# 👋 About Me
+# 👨‍💻 About Me
 
 
 Hi, I'm **Najmul Zaman Ifty**.
 
-I am a passionate **Web Developer** focused on building modern, responsive and scalable web applications.
+I am a passionate **Web Developer** who loves creating modern, responsive and scalable web applications.
 
-I love turning ideas into digital products by combining clean code, creative UI and powerful backend systems.
+My goal is to transform ideas into powerful digital solutions through clean design, efficient coding and innovative technologies.
+
+
+- 💻 Full Stack Web Development
+- 🌐 Modern Website Development
+- 🛒 E-Commerce Solutions
+- ⚡ API Development
+- 📊 Business Management Systems
+- 🌱 Always learning new technologies
+
 
 
 ---
+
 
 # 🚀 What I Build
 
@@ -43,54 +55,131 @@ I love turning ideas into digital products by combining clean code, creative UI 
 <div align="center">
 
 
-| 💻 Web Applications | 🌐 Digital Solutions |
-|---|---|
-| Full Stack Applications | Business Websites |
-| E-Commerce Platforms | Management Systems |
-| API Based Projects | Custom Software Solutions |
+<table>
+
+<tr>
+
+<td align="center" width="50%">
+
+
+### 🌐 Web Applications
+
+Building modern and scalable applications with smooth user experience.
+
+
+</td>
+
+
+<td align="center" width="50%">
+
+
+### 💡 Digital Solutions
+
+Creating practical software solutions for real-world problems.
+
+
+</td>
+
+
+</tr>
+
+
+<tr>
+
+
+<td align="center">
+
+
+### 🛒 E-Commerce
+
+Online platforms with product and customer management.
+
+
+</td>
+
+
+<td align="center">
+
+
+### 📊 Dashboard Systems
+
+Data-driven dashboards and management tools.
+
+
+</td>
+
+
+</tr>
+
+
+</table>
 
 
 </div>
 
 
+
 ---
 
-# 🛠️ Tech Stack
+
+# 🛠️ Technology Stack
 
 
-## Frontend Development
+## 💻 Frontend
 
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,vue,react"/>
+<p>
+
+<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vue,react"/>
+
+</p>
 
 
-## Backend Development
+
+## ⚙️ Backend
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=python,django,flask,nodejs"/>
 
+</p>
 
-## Database
+
+
+## 🗄 Database
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
 
+</p>
 
-## Tools
+
+
+## 🔧 Tools
+
+<p>
 
 <img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
+
+</p>
 
 
 
 ---
+
 
 # 🚀 Featured Projects
 
 
 ## 🏦 Banking Management System
 
-A complete management system designed for handling users, transactions and business operations.
+A complete management solution for handling users, transactions and business operations.
 
-**Technology:**
+
+**Technology**
 
 `Django` `Vue.js` `REST API` `MySQL`
+
 
 
 ---
@@ -98,11 +187,13 @@ A complete management system designed for handling users, transactions and busin
 
 ## 🛒 E-Commerce Platform
 
-A modern shopping platform with product management and smooth customer experience.
+A modern online shopping platform focused on smooth customer experience.
 
-**Technology:**
+
+**Technology**
 
 `React` `Django` `API`
+
 
 
 ---
@@ -110,15 +201,17 @@ A modern shopping platform with product management and smooth customer experienc
 
 ## 📊 Business Dashboard
 
-A responsive dashboard application for managing and visualizing business information.
+A responsive dashboard system for managing and visualizing business data.
 
-**Technology:**
+
+**Technology**
 
 `Vue.js` `Backend API` `Database`
 
 
 
 ---
+
 
 # 📊 GitHub Analytics
 
@@ -138,6 +231,7 @@ A responsive dashboard application for managing and visualizing business informa
 
 ---
 
+
 # 🌐 Connect With Me
 
 
@@ -145,35 +239,46 @@ A responsive dashboard application for managing and visualizing business informa
 
 
 <a href="YOUR_FACEBOOK_LINK">
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook"/>
+
+<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
+
 </a>
 
 
 <a href="mailto:YOUR_EMAIL">
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail"/>
+
+<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+
 </a>
 
 
 <a href="YOUR_WHATSAPP_LINK">
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp"/>
+
+<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
+
 </a>
 
 
 <a href="YOUR_LINKEDIN_LINK">
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin"/>
+
+<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+
 </a>
 
 
 </div>
 
 
-<br>
+
+---
 
 
 <div align="center">
 
+
 ### 🚀 Build. Learn. Create.
 
 ⭐ Thanks for visiting my profile!
+
 
 </div>
