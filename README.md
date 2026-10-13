@@ -1,13 +1,13 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f172a,100:2563eb&height=230&section=header&text=Najmul%20Zaman%20Ifty&fontSize=48&fontColor=ffffff&animation=twinkling&fontAlignY=35"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=180&section=header&text=Najmul%20Zaman%20Ifty&fontSize=40&animation=fadeIn"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=JetBrains+Mono&size=30&duration=2500&pause=800&color=38BDF8&center=true&vCenter=true&width=800&lines=WEB+DEVELOPER;FULL+STACK+APPLICATION+BUILDER;CREATING+MODERN+DIGITAL+SOLUTIONS;CODE+%7C+CREATE+%7C+INNOVATE"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&pause=1000&color=36BCF7&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+%7C+Backend+Enthusiast;Building+Creative+Web+Solutions"/>
 
 </div>
 
@@ -15,222 +15,116 @@
 <br>
 
 
-<div align="center">
-
-### 🚀 Welcome To My Digital Space
-
-Building modern web applications with creativity and clean code.
-
-</div>
+<img align="right" width="330" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif">
 
 
-<br>
+## 👋 Hi, I'm Najmul Zaman Ifty
 
 
-# 👨‍💻 About Me
+💻 Web Developer passionate about creating modern websites and applications.
+
+🌱 I enjoy learning new technologies and building real-world projects.
+
+🚀 Interested in Full Stack Development and innovative solutions.
 
 
-Hi, I'm **Najmul Zaman Ifty**.
-
-I am a passionate **Web Developer** who loves creating modern, responsive and scalable web applications.
-
-My goal is to transform ideas into powerful digital solutions through clean design, efficient coding and innovative technologies.
+<br clear="right"/>
 
 
-- 💻 Full Stack Web Development
-- 🌐 Modern Website Development
-- 🛒 E-Commerce Solutions
-- ⚡ API Development
-- 📊 Business Management Systems
-- 🌱 Always learning new technologies
+## 🛠️ My Skills
 
 
+### Frontend Development
 
----
-
-
-# 🚀 What I Build
-
-
-<div align="center">
-
-
-<table>
-
-<tr>
-
-<td align="center" width="50%">
+| Technology | |
+|---|---|
+| 🌐 HTML | HTML5 |
+| 🎨 CSS | CSS3 |
+| ⚡ JavaScript | Modern JS |
+| ⚛️ React | Frontend Library |
+| 🟢 Vue.js | Frontend Framework |
+| 🎨 Bootstrap | UI Framework |
 
 
-### 🌐 Web Applications
+### Backend Development
 
-Building modern and scalable applications with smooth user experience.
-
-
-</td>
-
-
-<td align="center" width="50%">
-
-
-### 💡 Digital Solutions
-
-Creating practical software solutions for real-world problems.
+| Technology | |
+|---|---|
+| 🐍 Python | Programming Language |
+| 🔥 Django | Web Framework |
+| 🌶️ Flask | Backend Framework |
+| 🟩 Node.js | Server Runtime |
 
 
-</td>
+### Database
+
+| Technology | |
+|---|---|
+| 🐬 MySQL | Relational Database |
+| 🐘 PostgreSQL | Database System |
+| 🍃 MongoDB | NoSQL Database |
 
 
-</tr>
+### Tools & Others
 
-
-<tr>
-
-
-<td align="center">
-
-
-### 🛒 E-Commerce
-
-Online platforms with product and customer management.
-
-
-</td>
-
-
-<td align="center">
-
-
-### 📊 Dashboard Systems
-
-Data-driven dashboards and management tools.
-
-
-</td>
-
-
-</tr>
-
-
-</table>
-
-
-</div>
+| Tool | |
+|---|---|
+| 🔧 Git | Version Control |
+| 🐙 GitHub | Code Hosting |
+| 💻 VS Code | Code Editor |
+| 🐳 Docker | Container Platform |
 
 
 
 ---
-
-
-# 🛠️ Technology Stack
-
-
-## 💻 Frontend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=html,css,javascript,bootstrap,vue,react"/>
-
-</p>
-
-
-
-## ⚙️ Backend
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs"/>
-
-</p>
-
-
-
-## 🗄 Database
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb"/>
-
-</p>
-
-
-
-## 🔧 Tools
-
-<p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux"/>
-
-</p>
-
-
-
----
-
 
 # 🚀 Featured Projects
 
 
-## 🏦 Banking Management System
+### 🛒 E-Commerce Website
 
-A complete management solution for handling users, transactions and business operations.
+A modern shopping platform with product management and user-friendly interface.
+
+**Tech:** React • Django • Database
 
 
-**Technology**
+---
 
-`Django` `Vue.js` `REST API` `MySQL`
+### 🏦 Banking Management System
+
+A web-based system for managing banking operations and transactions.
+
+**Tech:** Django • Vue.js • API
+
+
+---
+
+### 📊 Business Dashboard
+
+Interactive dashboard for managing and presenting business data.
+
+**Tech:** Vue.js • Backend API
 
 
 
 ---
 
-
-## 🛒 E-Commerce Platform
-
-A modern online shopping platform focused on smooth customer experience.
-
-
-**Technology**
-
-`React` `Django` `API`
-
-
-
----
-
-
-## 📊 Business Dashboard
-
-A responsive dashboard system for managing and visualizing business data.
-
-
-**Technology**
-
-`Vue.js` `Backend API` `Database`
-
-
-
----
-
-
-# 📊 GitHub Analytics
+# 📊 GitHub Stats
 
 
 <div align="center">
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=NazmulDHW&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api?username=NazmulDHW&show_icons=true&theme=tokyonight"/>
 
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=NazmulDHW&theme=tokyonight&hide_border=true"/>
+<img height="160" src="https://github-readme-stats.vercel.app/api/top-langs/?username=NazmulDHW&layout=compact&theme=tokyonight"/>
 
 
 </div>
 
 
-
 ---
-
 
 # 🌐 Connect With Me
 
@@ -239,46 +133,33 @@ A responsive dashboard system for managing and visualizing business data.
 
 
 <a href="YOUR_FACEBOOK_LINK">
-
-<img src="https://img.shields.io/badge/Facebook-Connect-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Facebook-blue?style=for-the-badge&logo=facebook"/>
 </a>
 
 
 <a href="mailto:YOUR_EMAIL">
-
-<img src="https://img.shields.io/badge/Email-Contact-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/Email-red?style=for-the-badge&logo=gmail"/>
 </a>
 
 
 <a href="YOUR_WHATSAPP_LINK">
-
-<img src="https://img.shields.io/badge/WhatsApp-Chat-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/WhatsApp-green?style=for-the-badge&logo=whatsapp"/>
 </a>
 
 
 <a href="YOUR_LINKEDIN_LINK">
-
-<img src="https://img.shields.io/badge/LinkedIn-Profile-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
+<img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin"/>
 </a>
 
 
 </div>
 
 
-
----
+<br>
 
 
 <div align="center">
 
-
-### 🚀 Build. Learn. Create.
-
-⭐ Thanks for visiting my profile!
-
+⭐ Thanks for visiting my profile
 
 </div>
