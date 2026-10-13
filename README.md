@@ -1,13 +1,20 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:2563eb,100:0f172a&height=180&section=header&text=Najmul%20Zaman%20Ifty&fontSize=42&fontColor=ffffff&animation=fadeIn"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:1f2937,100:2563eb&height=200&section=header&text=Najmul%20Zaman%20Ifty&fontSize=42&fontColor=ffffff"/>
 
 </div>
 
 
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=25&duration=2500&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+%7C+Backend+Developer;Building+Modern+Web+Applications"/>
+<img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=24&pause=1000&color=38BDF8&center=true&vCenter=true&width=600&lines=Web+Developer;Frontend+%7C+Backend+Developer;Creating+Modern+Web+Solutions"/>
+
+</div>
+
+
+<div align="center">
+
+<img src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif" width="450"/>
 
 </div>
 
@@ -15,110 +22,77 @@
 <br>
 
 
-<img align="right" width="350" src="https://raw.githubusercontent.com/Anmol-Baranwal/Cool-GIFs-For-GitHub/main/assets/coding.gif">
+## 👋 About Me
 
+Hi, I'm **Najmul Zaman Ifty**.
 
-## 👋 Hi, I'm Najmul Zaman Ifty
+I'm a Web Developer who loves creating modern websites, web applications and practical digital solutions.
 
-
-💻 Web Developer passionate about creating modern websites and applications.
-
-🚀 I love building practical projects and solving real-world problems through code.
-
-🌱 Currently improving my skills in Full Stack Development.
-
-
-<br>
-
-
-### 💡 What I Do
-
-- 🌐 Website Development
-- ⚡ Full Stack Applications
-- 🛒 E-Commerce Solutions
-- 📊 Dashboard & Management Systems
-- 🔗 API Development
-
-
-<br clear="right"/>
+I enjoy learning new technologies and turning ideas into real projects.
 
 
 ---
 
-# 🛠️ Tech Stack
+## 💻 Skills
 
 
 ### Frontend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=html,css,js,bootstrap,react,vue" height="35"/>
-
+HTML • CSS • JavaScript • React • Vue.js • Bootstrap
 </p>
 
 
 ### Backend
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=python,django,flask,nodejs" height="35"/>
-
+Python • Django • Flask • Node.js
 </p>
 
 
 ### Database
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=mysql,postgresql,mongodb" height="35"/>
-
+MySQL • PostgreSQL • MongoDB
 </p>
 
 
 ### Tools
 
 <p>
-
-<img src="https://skillicons.dev/icons?i=git,github,vscode,docker,linux" height="35"/>
-
+Git • GitHub • VS Code • Docker
 </p>
 
 
-
 ---
 
-# 🚀 Featured Projects
+## 🚀 Projects
 
 
-### 🛒 E-Commerce Platform
+### 🛒 E-Commerce Website
 
-Modern shopping platform with product management and smooth user experience.
+A modern online shopping platform with product management and user-friendly interface.
 
-**Tech:** React • Django • API
+**Tech:** React | Django | Database
 
-
----
 
 ### 🏦 Banking Management System
 
-A web application for managing users, transactions and business operations.
+A web-based system for managing users, transactions and business operations.
 
-**Tech:** Django • Vue.js • Database
+**Tech:** Django | Vue.js | API
 
-
----
 
 ### 📊 Business Dashboard
 
-A responsive dashboard system for managing and visualizing information.
+A dashboard application for managing and visualizing business information.
 
-**Tech:** Vue.js • Backend API
-
+**Tech:** Vue.js | Backend API
 
 
 ---
 
-# 📊 GitHub Stats
+## 📊 GitHub Stats
 
 
 <div align="center">
@@ -133,47 +107,39 @@ A responsive dashboard system for managing and visualizing information.
 </div>
 
 
-
 ---
 
-# 🌐 Connect With Me
+## 🌐 Connect With Me
 
 
 <div align="center">
 
 
 <a href="https://www.facebook.com/nzifty.ifty/">
-
 <img src="https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white"/>
-
 </a>
 
 
 <a href="mailto:nazmulzaman04@gmail.com">
-
 <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-
 </a>
 
 
 <a href="https://wa.me/8801518953916">
-
 <img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"/>
-
 </a>
 
 
 <a href="https://www.linkedin.com/in/nazmul-ifty-3a1757306/">
-
 <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
-
 </a>
 
 
 </div>
 
 
----
+<br>
+
 
 <div align="center">
 
